@@ -109,7 +109,7 @@ all_values = ""
 # valor unitário
 value_text = StringVar()
 
-# Rotulo 
+# Rotulos 
 
 app_scream = Label(frame_score,width=16,height=2,textvariable = value_text , padx=7, relief="flat", anchor="e",bd=0, justify=RIGHT, font=('Ivy 18 '), bg='#37474F', fg=co1)
 app_scream.place(x=0, y=0)
